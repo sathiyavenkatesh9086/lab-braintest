@@ -165,6 +165,13 @@
       <artifactId>tomcat-websocket-api</artifactId>
       <version>9.0.35</version>
     </dependency>
+<dependency>
+  <groupId>junit</groupId>
+  <artifactId>junit</artifactId>
+  <version>4.13</version>
+</dependency>
+
+
   </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
