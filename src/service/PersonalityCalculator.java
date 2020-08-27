@@ -1,5 +1,6 @@
 package service;
 
+<<<<<<< HEAD
 // Create a class called PersonalityCalculator
 // PersonalityCalculator has two methods findAnswers and findYourBrainType
 // int[] findAnswers(String options) and String findYourBrainType(String options) is the method prototype
@@ -48,3 +49,5 @@ public class PersonalityCalculator
 		
 	}	
 }
+=======
+>>>>>>> 43e4e584acae410de28ae6603c58925ebaaee9b9

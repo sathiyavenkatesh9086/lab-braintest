@@ -48,7 +48,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 
 ## Input Format
 1. ***There are 20 questions and the answers are stored as a String array.***
-2. ***i.e String options = [5,2,3,1,4,3,2,1,5,4,3,2,1,5,4,3,2,1,2,2].***
+2. ***i.e String options = "5,2,3,1,4,3,2,1,5,4,3,2,1,5,4,3,2,1,2,2".***
 3. ***String options should be an array of numbers of the type string.***
 
 ## Output Format
@@ -97,7 +97,7 @@ Range Results:
 3. ***Pass the String options from the doPost method to the findYourBrainType method as argument.***
 4. ***Create a String variable as message and Store the return value from findYourBrainType.***
 5. ***Pass the message to request.setAttribute("message",message);***
-6. ***There you go. You are ready to run your application and see which is your braintype.***
+
 
 ## Bonus Challenge
 1. ***Print each answers in the console as per the format given below.***
