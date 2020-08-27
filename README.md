@@ -32,8 +32,6 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 2. ***Edit the code as per the instructions.***
 3. ***Go to Java Resources -> src folder.***
 4. ***You will have two packages src/controller and src/service.***
-5. ***You need to modify src/controller/PersonalityViewController and src/service/PersonalityCalculator.***
-6. ***Once the progressions are completed follow the instructions to run the application and test your code.***
  
 ## Run the Project
 1. ***Right - click on the project.***
