@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1" pageEncoding="ISO-8859-1"%>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -12,6 +12,7 @@
 
 
 <header class="header">
+<img class="background" src="./assets/Background for home page.svg" alt="Background">
 <div class="header-text">THE 50 SECONDS BRAIN TEST</div>
 <div class="header-text-small">Which side does your brain belongs to? Time to find out!</div>
 <img class="logo" src="./assets/Brain logo.svg" alt="logo"></img>
