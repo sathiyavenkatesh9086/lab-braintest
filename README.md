@@ -31,7 +31,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 1. ***Do not modify the entire code.***
 2. ***Edit the code as per the instructions.***
 3. ***Go to Java Resources -> src folder.***
-4. ***You will have two packages src/controller and src/service.***
+4. ***The entire source code is present inside the Java Resources folder***
  
 ## Run the Project
 1. ***Right - click on the project.***
